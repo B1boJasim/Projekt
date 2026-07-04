@@ -1,1 +1,12 @@
-Hallo ich bin max
+**Dein Ticket wurde erfolgreich erstellt!** :envelope_with_arrow:
+
+Ein Supporter wird sich in Kürze um dein Anliegen kümmern. Damit wir dir schneller helfen können, teile uns bitte direkt die folgenden Informationen mit:
+
+• **Dein In-Game-Name (IGN):**
+• **Deine User-ID / Account-Name:**
+• **Datum und Uhrzeit des Vorfalls:**
+• **Genaue Beschreibung deines Problems:**
+• **Beweise (z.B. Screenshots/Video-Links):**
+
+Je mehr Details du uns jetzt schon gibst, desto schneller können wir das Ticket lösen! :relaxed:
+
